@@ -1,5 +1,5 @@
 ## Enhancement in useFetch
-    => first created a fetchData async function then enhanced it to useCallback with arrow async with url as dependency 
+    => first created a fetchData async function then enhanced it to useCallback with url as dependency 
     => enhanced useEffect for render fetchData with fetchData dependency 
     => returned data, loading and error
 

@@ -1,3 +1,6 @@
+# App Live on Netlify
+[Click here to Visit the App](https://custom-fetchhook.netlify.app/)
+
 # Project Structure
 ```
 React apps/
@@ -27,6 +30,7 @@ React apps/
 
 
 ## Features
+
 ### Custom fetchHook
     -> fetch the data from the api
     -> Used useCallback with url dependency to avoid unnecessary callback
